@@ -1,2 +1,23 @@
 # HardcoreGeyseRPG
-Make Your Own Online Hardcore Network! (Powered By Password and Setupper)
+Make Your Own Online Hardcore Geyser Network! (Powered By Password and Setupper)
+# How to Logon
+you Must Put Geyser And Floodgate to get the login Form to function.
+also, you must run EssentialsX XMPP to force Complete Online mode!
+You also Need Factions and Team Plugin as they run commands.
+Otherwise, They Have To Setup using ChestGUI and commands, and if the syntax error occurred, The Account will Not Work!
+
+```
+-----------------------------------------------------------------
+|                     Log in To Hardcore                        |
+-----------------------------------------------------------------
+| [Please Provide the UserName]                                 |
+| [Please Provide the XMPP]                                     |
+| [Please Provide the Password]                                 |
+-----------------------------------------------------------------
+[                     OK                                        ]
+-----------------------------------------------------------------
+```
+> [!CAUTION]
+> Work In progress, Might as well You Use CrossplatForms to use it.
+> code this with Crossplatforms forms.yml and you are done.
+> OK?
